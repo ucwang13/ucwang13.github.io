@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tiramisu Recipe
-permalink: /TiramisuRecipe/
+permalink: /TiramisuRecipe.markdown/
 ---
 
 ladyfingers
