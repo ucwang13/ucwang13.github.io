@@ -5,9 +5,10 @@ permalink: /TiramisuRecipe.markdown/
 ---
 
 ladyfingers
-2 eggs
-25g sugar
-55g flour
+
+- 2 eggs
+- 25g sugar
+- 55g flour
 
 1. preheat 190C pan + paper
 2. separate eggs. yoke in small white in larger
@@ -19,18 +20,19 @@ ladyfingers
 8. bake until light brown reuse paper
 
 tiramisu
+
 6-7 cup square pan
 
-one layer of coco powder
-6cup moka espresso + 1 shot alcohol
-dip ladyfingers and one layer
-separate 2 eggs
-yoke + 25 g sugar high over heat mix til light orange don't clump
-250g marscarpone + 1.5 shot alcohol until fluff
-mix yoke mixture and marscarpone
-layer half on top and add another layer of chocolate
-one more layer of fingers
-one more layer of remaining marscarone
-one more layer of chocolate
+- one layer of coco powder
+- 6cup moka espresso + 1 shot alcohol
+- dip ladyfingers and one layer
+- separate 2 eggs
+- yoke + 25 g sugar high over heat mix til light orange don't clump
+- 250g marscarpone + 1.5 shot alcohol until fluff
+- mix yoke mixture and marscarpone
+- layer half on top and add another layer of chocolate
+- one more layer of fingers
+- one more layer of remaining marscarone
+- one more layer of chocolate
 
 chill overnight
