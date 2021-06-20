@@ -5,14 +5,15 @@ permalink: /CookieRecipe.markdown/
 ---
 
 Cookies
-100g butter closer to room temp
-70g flour
-70g chocolate chip/raisin combined
-1/2(30g) egg I use 1 cause lazy
-1/2 teaspoon baking soda
-1/2 teaspoon cinnamon powder
-60-80g brown sugar
-60g oatmeal
+
+- 100g butter closer to room temp
+- 70g flour
+- 70g chocolate chip/raisin combined
+- 1/2(30g) egg I use 1 cause lazy
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon cinnamon powder
+- 60-80g brown sugar
+- 60g oatmeal
 
 
 1. preheat 170C pan + paper
