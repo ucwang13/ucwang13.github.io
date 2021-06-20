@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cookie Recipe
-permalink: /CookieRecipe/
+permalink: /CookieRecipe.markdown/
 ---
 
 Cookies
